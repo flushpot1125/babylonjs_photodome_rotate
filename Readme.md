@@ -21,7 +21,8 @@ $ npm install --save-dev express
 
 ### Manually
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LrP8OJn0M3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](https://img.youtube.com/vi/LrP8OJn0M3Y/0.jpg)](https://www.youtube.com/watch?v=LrP8OJn0M3Y)
 
 ### Automatically
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OVXz6LrnZDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![](https://img.youtube.com/vi/OVXz6LrnZDE/0.jpg)](https://www.youtube.com/watch?v=OVXz6LrnZDE)
